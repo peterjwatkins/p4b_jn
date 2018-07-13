@@ -1,7 +1,7 @@
 # p4b_jn
 A set of Jupyter Notebooks to support "Programming for Biochemists, lessons for Python programming'
 
-These notebooks are modified Python scripts which can be found at http://p4b.muralab.org/, which are are part of the Supplemental Information for "An Introduction to Programming for Bioscientists: A Python–based Primer", by Ekmekci, McAnany & Mura (PLOS Computational Biology; 2016; doi:10.1371/journal.pcbi.1004867).
+These notebooks are modified Python scripts found at http://p4b.muralab.org/, part of the Supplemental Information for "An Introduction to Programming for Bioscientists: A Python–based Primer", by Ekmekci, McAnany & Mura (PLOS Computational Biology; 2016; doi:10.1371/journal.pcbi.1004867).
 
 Copyright in relation to notebook content
 Programming for Biochemists, lessons for Python programming.
